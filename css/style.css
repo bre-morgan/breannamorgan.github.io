@@ -1,0 +1,254 @@
+body { 
+    margin: 0%;
+    text-align: center;
+}
+
+.top {
+    background-color:burlywood;
+    text-align: center;
+    padding-top: 200px;
+}
+
+.heading{
+    border-top: none;
+    color: darkslategray;
+    text-align: center;
+    font-family: 'Unbounded', cursive;
+    font-size: 30px;
+    margin: 0px;
+
+}
+
+.subheading{
+    color:cornsilk;
+    text-align:center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    padding-bottom: 300px
+}
+
+.cityscape {
+    position:absolute;
+    width: auto;
+    height: auto;
+}
+
+.Breanna-Morgan{
+    border-radius: 8px;
+}
+
+.middle {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color:darkslategrey;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    color:blanchedalmond;
+    height:fit-content;
+
+}
+
+.row {
+    margin: auto;
+}
+
+.column {
+    display: inline-block;
+}
+
+.left {
+    float: left;
+    text-align: center;
+    width: 35%;
+    height: 100px;
+}
+
+.codeimage {
+    height: auto;
+    width: 80%;
+}
+
+.right {
+    height: 150px;
+    width: 20%;
+}
+
+.header {
+    height: 50px;
+}
+
+.footer {
+    height: 100px;
+    clear: both;
+}
+
+.row2 {
+    margin: auto;
+}
+
+.column2 {
+    display: inline-block;
+}
+
+.right2 {
+    width: 50%;
+    height: 100px;
+}
+
+.ugaimage {
+    height: auto;
+    width: 70%;
+}
+
+.left2 {
+    float: left;
+    height: 100px;
+    width: 50%;
+}
+
+.header2 {
+    height: 50px;
+}
+
+.footer2 {
+    height: 40px;
+    clear: both;
+}
+
+.row3 {
+    margin: auto;
+}
+
+.column3 {
+    display: inline-block;
+}
+
+.left3 {
+    float: left;
+    width: 35%;
+    height: 100px;
+}
+
+.skills {
+    height: auto;
+    width: 70%;
+}
+
+.right3 {
+    height: 100px;
+    width: 65%;
+}
+
+.header3 {
+    height: 50px;
+}
+
+.footer3 {
+    height: 100px;
+    clear: both;
+}
+
+
+.hr1{
+    border: 1px dotted cornsilk;
+}
+
+.hr2{
+    border: 2px solid black;
+}
+
+.bottom {
+    text-align: center;
+    background-color: burlywood;
+    padding-bottom: 7px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.flower1 {
+    position: absolute;
+    height: auto;
+    width: 25%;
+    top: 10px;
+    left: 30px;
+}
+.flower2{
+    position: absolute;
+    height: auto;
+    width: 30%;
+    top: 430px;
+    right: 30px;
+}
+
+.button {
+    background-color:blanchedalmond;
+    border: none;
+    padding: 5px 14px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Unbounded', cursive;
+    font-size: 15px;
+    margin: 2px 1px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+ a { 
+    color:chocolate;
+    text-decoration: none;
+}
+
+a:hover{
+    color: yellow;
+}
+
+.contact{
+    background-color: darkslategray;
+    font-family: 'Unbounded', cursive;
+    margin: 0%;
+    color: cornsilk;
+    text-align: center;
+    height:800px;
+}
+
+.card {
+    background-color: burlywood;
+    color: darkslategray;
+    font-family: 'Lato', sans-serif;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    max-width: fit-content;
+    margin: auto;
+    text-align: center;
+    outline: 10px black;
+
+}
+  
+.card:hover {
+    box-shadow: 0 8px 16px 0 cornsilk;
+}
+
+.cardimage {
+    height: 200px;
+}
+
+.container{
+    background-color: darkslategray;
+    text-align: center;
+}
+
+.submitb{
+    background-color:blanchedalmond;
+    border: none;
+    padding: 5px 14px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+    margin: 2px 1px;
+    cursor: pointer;
+    border-radius: 8px;
+}
